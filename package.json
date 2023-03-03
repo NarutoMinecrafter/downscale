@@ -1,0 +1,10 @@
+{
+  "name": "downscale",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Naruto Minecrafter",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.31.3"
+  }
+}
